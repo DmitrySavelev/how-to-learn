@@ -144,6 +144,7 @@
   width: 60%;
   text-align: center;
   margin-top: 0;
+  margin-bottom: 0;
   line-height: 34px;
   font-size: 24px;
   font-weight: 400;
@@ -285,6 +286,11 @@ z-index: 10;
   width: 90%;
   display: flex;
   justify-content: space-between;
+}
+
+.footer__column{
+  display: flex;
+  flex-direction: column;
 }
 
 .footer__column_content_copyright {
