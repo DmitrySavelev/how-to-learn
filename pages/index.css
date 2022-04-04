@@ -1,3 +1,4 @@
+@import url(../vendor/normalize.css);
 @import url(../blocks/page/page.css);
 
 @import url(../blocks/header/header.css);
@@ -81,4 +82,7 @@
 @import url(../blocks/resourses/__logo-zone/resourses__logo-zone.css);
 @import url(../blocks/resourses/__link/resourses__link.css);
 @import url(../blocks/resourses/__logo/resourses__logo.css);
+
+@import url(../blocks/opacity/opacity.css);
+
 
