@@ -1,7 +1,5 @@
 # Научиться учиться
 
----
-
 ### [DEMO](https://dmitrysavelev.github.io/how-to-learn/)
 
 ---
